@@ -12,5 +12,5 @@ LinkedIn: https://www.linkedin.com/in/arnavgrg
 
 ### Stats
 ---
-![arnavgarg1's Stats](https://github-readme-stats.vercel.app/api?username=arnavgarg1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![arnavgarg1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnavgarg1&theme=vue-dark&hide_border=false)
+![arnavgarg1's Stats](https://github-readme-stats.vercel.app/api?username=arnavgarg1&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&layout=compact&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arnavgarg1&theme=vue-dark)](https://git.io/streak-stats)
