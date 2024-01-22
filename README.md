@@ -5,10 +5,7 @@ I’m a Machine Learning Engineer at Predibase, where I work on large language m
 
 I love working on [Ludwig](https://github.com/ludwig-ai/ludwig.git), an open-source tool box for low-code/no-code deep learning.
 
-### Connect with me:
----
-
-LinkedIn: https://www.linkedin.com/in/arnavgrg
+Connect with me! https://www.linkedin.com/in/arnavgrg
 
 ### Stats
 ---
