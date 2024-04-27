@@ -1,4 +1,4 @@
-### Hi There, I'm Arnav 👋
+### Hi there, I'm Arnav 👋
 ---- 
 
 I’m a Machine Learning Engineer at Predibase, where I work on large language models and distributed training. 
