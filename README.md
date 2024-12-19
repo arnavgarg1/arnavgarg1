@@ -1,9 +1,9 @@
 ### Hi there, I'm Arnav 👋
 ---- 
 
-I'm a Machine Learning Engineer at Predibase, working on large language models and distributed training. I’m passionate about open-source projects, especially in the field of AI and ML. 🚀
+I'm a Machine Learning Engineer at Predibase, working on large language models and distributed training. I’m love working on open-source projects. 🚀
 
-I love working on [Ludwig](https://github.com/ludwig-ai/ludwig.git), an open-source toolbox for low-code/no-code deep learning. 
+I maintain [Ludwig](https://github.com/ludwig-ai/ludwig.git), an open-source toolbox for low-code/no-code deep learning. 
 
 Some of my recent work includes:
 
@@ -13,3 +13,9 @@ Some of my recent work includes:
 4. Speeding up LLM training by 15x. [Read More](https://predibase.com/blog/how-we-accelerated-fine-tuning-by-15x-in-less-than-15-days)
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arnavgrg) to discuss all things AI 🤖.
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnavgarg1&theme=react&show_icons=true" height="180px">
+</a>
+
+<br/>  
