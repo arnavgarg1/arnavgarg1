@@ -1,7 +1,7 @@
 ### Hi there, I'm Arnav 👋
 ---- 
 
-I'm a Machine Learning Engineer at Predibase, working on large language models and distributed training. I’m love working on open-source projects. 🚀
+I'm a Machine Learning Engineer at Predibase, working on large language models and distributed training. I love working on open-source projects. 🚀
 
 I maintain [Ludwig](https://github.com/ludwig-ai/ludwig.git), an open-source toolbox for low-code/no-code deep learning. 
 
