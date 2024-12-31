@@ -14,6 +14,8 @@ Some of my recent work includes:
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/arnavgrg) to discuss all things AI 🤖.
 
+If you like my posts, feel free to buy me a coffee ☕: https://buymeacoffee.com/arnavgarg 
+
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=arnavgarg1&theme=react&show_icons=true" height="180px">
 </a>
